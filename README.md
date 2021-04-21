@@ -8,6 +8,9 @@ O conteúdo do curso, presente nestes notebooks fazem referência as sessões:
 - Pandas Dataframes I, II, III
 - Pandas em dados textuais
 - Pandas e MultiIndex
+- Pandas e GroupBy
+- Pandas e operações em dataframes (merge, join, concat)
+- Pandas e atributos de data e hora (datetimes)
 
 Todos os datasets utilizados nos notebooks então incluídos na pasta Dados.
 
